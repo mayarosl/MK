@@ -156,6 +156,7 @@ body {
     letter-spacing: 2px;
     color: #efefef;
     top: 0;
+    text-transform: uppercase;
 }
 
 .player1 .name {
@@ -209,8 +210,6 @@ body {
     width: 100%;
 }
 
-<<<<<<< Updated upstream
-=======
 .control {
     position: absolute;
     width: 200px;
@@ -262,10 +261,6 @@ body {
 .button:active::after {
     top: 1px;
 }
-.button:disabled {
-    display: none;
-}
-
 
 .wonTitle {
     position: absolute;
@@ -290,4 +285,3 @@ body {
 .reloadWrap .button {
     margin-top: 0;
 }
->>>>>>> Stashed changes
